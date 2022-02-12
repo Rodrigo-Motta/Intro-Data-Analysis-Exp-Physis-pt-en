@@ -1,4 +1,4 @@
-# Guia-de-Experimental-Análise-de-dados-pt-br-
+# Seminars
 
 A guide to experimental physics and data analysis in English and Portuguese:
 
